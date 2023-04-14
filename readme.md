@@ -14,9 +14,7 @@ _website design project_
 
 This project is for educational porpuses only. Pull request are welcome, but priority for project authors! Thank you for your cooperation!
 
-Site published at: https://front-end-by-rimantas.github.io/44-grupe-serlokas/
-
-Design: [Serlokas](https://miro.medium.com/v2/resize:fit:1400/format:webp/1*-i5m47JMGAhGVIdQPThnDQ.jpeg)
+Site published at: https://github.com/AndriusCa/1-uzduotis
 
 ## 🎯 Project features/goals
 
@@ -67,7 +65,7 @@ There is no tests for this project.
 
 ## 🎅 Authors
 
-Rimantas: [Github](https://github.com/belauzas)
+Andrius: [Github](https://github.com/AndriusCa)
 
 ## ⚠️ License
 
