@@ -5,7 +5,6 @@ body * {
  
  body {
     display: flex;
-    align-items: center;
     justify-content: center;
     
 }
@@ -13,11 +12,10 @@ body * {
 main {
     display: flex;
     width: 900px;
-    margin: calc((100% - 950px)/2);
+    margin: calc((60% - 600px)/2);
 }
 
 img {
-    filter: invert(1);
     display: flex;
     width: 160px;
     height: 160px;
@@ -26,7 +24,6 @@ img {
 }
 
 div {
-    flex: 20px;
     padding: 50px;
 }
 
