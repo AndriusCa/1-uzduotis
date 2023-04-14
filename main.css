@@ -1,0 +1,42 @@
+body,
+body * {
+    padding: 0px;
+}
+ 
+ body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+main {
+    display: flex;
+    width: 900px;
+    margin: calc((100% - 950px)/2);
+}
+
+img {
+    filter: invert(1);
+    display: flex;
+    width: 160px;
+    height: 160px;
+    align-items: center;
+    background-color: grey;
+}
+
+div {
+    flex: 20px;
+    padding: 50px;
+}
+
+h1{
+    text-transform: uppercase;
+    text-align: center;
+    color: #F34D33;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p {
+    text-align: left;
+}
