@@ -6,21 +6,17 @@ body * {
  body {
     display: flex;
     justify-content: center;
-    
 }
 
 main {
     display: flex;
-    width: 900px;
-    margin: calc((60% - 600px)/2);
+    margin: 200px calc((100% - 600px)/2);
 }
 
 img {
-    display: flex;
-    width: 160px;
-    height: 160px;
+    width: 200px;
+    height: 200px;
     align-items: center;
-    background-color: grey;
 }
 
 div {
@@ -28,6 +24,7 @@ div {
 }
 
 h1{
+    font-size: 25px;
     text-transform: uppercase;
     text-align: center;
     color: #F34D33;
